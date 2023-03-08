@@ -1,0 +1,44 @@
+# Translation of Themes - Deli in Italian
+# This file is distributed under the same license as the Themes - Deli package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-18 18:11:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Themes - Deli\n"
+
+#. Description of the theme
+msgid "Deli is a Storefront child theme featuring a texturised, earthy design, perfect for stores selling natural, organic or hand made goods. As a Storefront child theme, Deli benefits from all of the tasty WooCommerce integration features that Storefront provides. Bon Appetit!"
+msgstr "Deli è un tema child per Storefront che presenta un design texturizzato, terroso, perfetto per negozi che vendono prodotti naturali, organici o fatti a mano. Come tema child di Storefront, Deli beneficia di tutte le ottime integraziioni con WooCommerce fornite da Storefront. Bon Appetit!"
+
+#. Theme Name of the theme
+msgid "Deli"
+msgstr "Deli"
+
+#: inc/class-deli-customizer.php:131
+msgid "For use with the Sticky Header option"
+msgstr "Da utilizzare con l'opzione Header Sticky"
+
+#: inc/class-deli-customizer.php:130
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+#: inc/class-deli-customizer.php:118
+msgid "Navigation background color"
+msgstr "Colore di sfondo della navigazione"
+
+#. Author of the theme
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Author URI of the theme
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"
+
+#. Theme URI of the theme
+msgid "https://woocommerce.com/products/deli/"
+msgstr "https://woocommerce.com/products/deli/"

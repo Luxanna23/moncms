@@ -1,0 +1,11 @@
+2023-03-07T10:00:22+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - int in /home/storage/vhosts/yasmine-amaddah.students-laplateforme.io/httpdocs/mycms/wp-admin/includes/post.php:184
+Stack trace:
+#0 /home/storage/vhosts/yasmine-amaddah.students-laplateforme.io/httpdocs/mycms/wp-admin/includes/post.php(310): _wp_translate_postdata()
+#1 /home/storage/vhosts/yasmine-amaddah.students-laplateforme.io/httpdocs/mycms/wp-admin/includes/ajax-actions.php(2117): edit_post()
+#2 /home/storage/vhosts/yasmine-amaddah.students-laplateforme.io/httpdocs/mycms/wp-includes/class-wp-hook.php(308): wp_ajax_inline_save()
+#3 /home/storage/vhosts/yasmine-amaddah.students-laplateforme.io/httpdocs/mycms/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#4 /home/storage/vhosts/yasmine-amaddah.students-laplateforme.io/httpdocs/mycms/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/storage/vhosts/yasmine-amaddah.students-laplateforme.io/httpdocs/mycms/wp-admin/admin-ajax.php(188): do_action()
+#6 {main}
+  thrown in /home/storage/vhosts/yasmine-amaddah.students-laplateforme.io/httpdocs/mycms/wp-admin/includes/post.php on line 184
+
